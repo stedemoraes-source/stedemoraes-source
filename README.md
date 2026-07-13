@@ -1,7 +1,6 @@
 ### Olá 👋
 
 ###### ✨ Sobre a Stéphanie ✨
----
 
 Analista de Dados em formação, com experiência em logística e operações. 
 Apaixonada por transformar dados em informações estratégicas por meio de ETL, análise exploratória, visualização de dados e Business Intelligence.
@@ -9,7 +8,6 @@ Apaixonada por transformar dados em informações estratégicas por meio de ETL,
 ---
 
 ###### ✨ Habilidades ✨
----
 
 🐍 Python
 🐼 Pandas
@@ -38,5 +36,5 @@ Apaixonada por transformar dados em informações estratégicas por meio de ETL,
 ---
 
 ###### ✨ Rede Social ✨
----
+
 📎 LinkedIn: **www.linkedin.com/in/stephanie-dem-rosa**
