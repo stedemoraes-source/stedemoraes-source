@@ -9,29 +9,35 @@ Apaixonada por transformar dados em informações estratégicas por meio de ETL,
 
 ###### ✨ Habilidades ✨
 
-🐍 Python
-🐼 Pandas
-🔢 NumPy
-📊 Power BI
-📈 EDA
-⚙️ ETL
-🗂️ CSV
-📦 Parquet
-📓 Google Colab
-🔄 Git
-🐙 GitHub
-⏰ Shell Script (.sh)
-🐧 Terminal Linux
-💲  Plotly Express
-⬜ Plotly Graph Objects
-🚀 MySQL
-💡  MySQL Workbench
-👾 SQL
-🏆 Modelagem Dimensional
-💻 Looker Studio
-🛠️ Google Sheets (fonte de dados)
-👀 Business Intelligence (BI)
-⏳ Data Visualization
+🐍 Python |
+🐼 Pandas |
+🔢 NumPy |
+📊 Power BI |
+📈 EDA |
+⚙️ ETL |
+🗂️ CSV | 
+📦 Parquet |
+📓 Google Colab |
+🔄 Git |
+🐙 GitHub |
+⏰ Shell Script (.sh) |
+🐧 Terminal Linux |
+💲  Plotly Express |
+⬜ Plotly Graph Objects |
+🚀 MySQL |
+💡  MySQL Workbench |
+👾 SQL |
+🏆 Modelagem Dimensional |
+💻 Looker Studio |
+🛠️ Google Sheets (fonte de dados) |
+👀 Business Intelligence (BI) |
+⏳ Data Visualization 
+
+---
+
+### ✨ Detalhes ✨
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stedemoraes-source&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
